@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayeshpatil45454" alt="jayeshpatil45454" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/loving_jayesh_" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/loving_jayesh_?logo=twitter&style=for-the-badge" alt="https://twitter.com/loving_jayesh_" /></a> </p>
 
 - 🔭 I’m currently working on [Netflix Clone](COMING SOON)
 
